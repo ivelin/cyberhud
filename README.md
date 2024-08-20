@@ -22,14 +22,14 @@ Some of the initial list of desirable features shared by cybertruck drivers:
 - LEDs reflect well in cybertruck windshield. However LCD and OLED screens (iPhone, iPad) do not reflect well.
 - In order to fit neatly behind leather bar on dashboard and not be visible to driver, the HUD projection device needs to be less than 80mm wide and 10mm tall. It can be as long as the whole windshield width.
 
-# Prototype hardware
+# Hardware
 
-- Pi Zero
-- LED Matrix
-- Battery to power PCB and LED matrix
-- Solar panel to continuously charge battery
+- [Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/). This remarkable tiny PCB released in 2021 is still great in 2024 as it strikes an [outstanding performance/power balance](https://hackaday.com/2021/11/01/the-pi-zero-2-w-is-the-most-efficient-pi/). Almost as fast as a regular RPi 3B+ with the power efficiency of a RPi Zero W.
+- [LED Matrix 64x32 3mm pitch](https://www.adafruit.com/product/2279). Bright LEDs that reflect well in windshiled and sufficient resolution to display text and distinguishable images. Yet small enough to tuck behind the dashboard leather board and not distract driver.
+- [Unininterruptable Power Supply to power the PCB and LED matrix](https://www.makerfocus.com/products/raspberry-pi-expansion-board-ups-pack-standard-power-supply?srsltid=AfmBOop_X6rdueEz7cvVL0TxZKkDICGbjlEOxtUUtbOpe7TOrR_PExrE)
+- [Solar panel to continuously charge the UPS battery](https://www.adafruit.com/product/5367)
 
-# Prototype software
+# Software
 
 - [DietPi](https://dietpi.com/blog/?p=1058)
 - [RPi RGB LED Matrix](https://github.com/hzeller/rpi-rgb-led-matrix)
