@@ -29,3 +29,9 @@ Some of the initial list of desirable features shared by cybertruck drivers:
 - Battery to power PCB and LED matrix
 - Solar panel to continuously charge battery
 
+# Prototype software
+
+- [DietPi](https://dietpi.com/blog/?p=1058)
+- [RPi RGB LED Matrix](https://github.com/hzeller/rpi-rgb-led-matrix)
+- [Tesla Fleet API - Vehicle Data](https://developer.tesla.com/docs/fleet-api/endpoints/vehicle-endpoints#vehicle-data)
+- 
