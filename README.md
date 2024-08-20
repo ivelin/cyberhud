@@ -1,9 +1,9 @@
-# cyberhud
-Prototyping Heads Up Display  on the windshield of Cybertruck
+# CyberHUD
+Prototyping Heads Up Display for the windshield of Cybertruck
 
 Based on a cybertruck [community discussion](https://www.cybertruckownersclub.com/forum/threads/heads-up-display.20073/post-385728)
 
-# Wish List
+# Wish list
 
 Some of the initial list of desirable features shared by cybertruck drivers:
 - Improve convenience and danger of running out of battery by showing low battery warning (Below 20%, 10%, 5%). Currently batttery level is shown on main screen on a small icon at the top. It is possible to miss if driver is exclusively focused on the road especially in peak traffic environment.
