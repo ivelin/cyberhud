@@ -14,3 +14,11 @@ Some of the initial list of desirable features shared by cybertruck drivers:
 - Improve safety and convenience by showing caller id for incoming calls and text messages. Allow driver to decide whether to take call or pull over to respond to important message. Currently driver has to shift focus from road to main screen to see caller id and assess priority.
 - Improve convenience and safety by adjusting (increase or dim) LED brightness based on ambient light (day vs night). In bright daylight it may require LED to be in max brightness in order to be clearly seen. Respectively at night, if the LED is too bright, its reflection on the windshield may impair road visibility.
 - 
+
+
+# Design constaints
+
+- HUD device needs to be of matte black surface in order to not reflect in windshield
+- LEDs reflect well in cybertruck windshield. However LCD and OLED screens (iPhone, iPad) do not reflect well.
+- In order to fit neatly behind leather bar on dashboard and not be visible to driver, the HUD projection device needs to be less than 80mm wide and 10mm tall. It can be as long as the whole windshield width.
+
