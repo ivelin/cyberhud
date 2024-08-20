@@ -22,3 +22,10 @@ Some of the initial list of desirable features shared by cybertruck drivers:
 - LEDs reflect well in cybertruck windshield. However LCD and OLED screens (iPhone, iPad) do not reflect well.
 - In order to fit neatly behind leather bar on dashboard and not be visible to driver, the HUD projection device needs to be less than 80mm wide and 10mm tall. It can be as long as the whole windshield width.
 
+# Prototype hardware
+
+- Pi Zero
+- LED Matrix
+- Battery to power PCB and LED matrix
+- Solar panel to continuously charge battery
+
