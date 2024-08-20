@@ -33,7 +33,8 @@ Other nice to have features:
 - [RGB LED Matrix Bonnet for RPi](https://www.adafruit.com/product/3211) which simplifies control of the RGB Matrix via Rpi.
 - [Unininterruptable Power Supply to power the PCB and LED matrix](https://www.makerfocus.com/products/raspberry-pi-expansion-board-ups-pack-standard-power-supply?srsltid=AfmBOop_X6rdueEz7cvVL0TxZKkDICGbjlEOxtUUtbOpe7TOrR_PExrE)
 - [Solar panel to continuously charge the UPS battery](https://www.adafruit.com/product/5367)
-- [USB to 2.1mm Male Barrel Jack Cable - 22AWG & 1 meter](https://www.adafruit.com/product/2697). Supplying power from UPS to RGB LED Matrix Bonnet.
+- [USB A to 2.1mm Male Barrel Jack Cable - 22AWG & 1 meter](https://www.adafruit.com/product/2697). Supplying power from UPS to RGB LED Matrix Bonnet.
+- [USB A to Micro USB B cable](https://www.adafruit.com/product/592). Supplying power from UPS to RPi.
 
 # Software
 
