@@ -13,7 +13,7 @@ Some of the initial list of desirable features shared by cybertruck drivers:
 - Improve convenience and safety by showing upcoming turn from navigation a few seconds in advance. Sometimes drivers miss the turn because it requires looking at the main screen when navigation voice is turned off.
 - Improve safety and convenience by showing caller id for incoming calls and text messages. Allow driver to decide whether to take call or pull over to respond to important message. Currently driver has to shift focus from road to main screen to see caller id and assess priority.
 - Improve convenience and safety by adjusting (increase or dim) LED brightness based on ambient light (day vs night). In bright daylight it may require LED to be in max brightness in order to be clearly seen. Respectively at night, if the LED is too bright, its reflection on the windshield may impair road visibility.
-- 
+- Improve convenience and safety by showing blind spot warnings. Ideally indication that it may not be safe to change lanes. Especially helpful when driver wants to change lanes. Because of cybertruck's relatively wide body, it takes some effort for driver to check side mirrors, on-screen traffic simulator and rear view on main screen before changing lanes.
 
 
 # Design constaints
