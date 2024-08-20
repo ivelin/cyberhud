@@ -15,6 +15,10 @@ Some of the initial list of desirable features shared by cybertruck drivers:
 - Improve convenience and safety by adjusting (increase or dim) LED brightness based on ambient light (day vs night). In bright daylight it may require LED to be in max brightness in order to be clearly seen. Respectively at night, if the LED is too bright, its reflection on the windshield may impair road visibility.
 - Improve convenience and safety by showing blind spot warnings. Ideally indication that it may not be safe to change lanes. Especially helpful when driver wants to change lanes. Because of cybertruck's relatively wide body, it takes some effort for driver to check side mirrors, on-screen traffic simulator and rear view on main screen before changing lanes.
 
+Other nice to have features:
+- Incoming Email preview
+- News headlines
+- Stock market trades and major updates
 
 # Design constaints
 
@@ -26,13 +30,13 @@ Some of the initial list of desirable features shared by cybertruck drivers:
 
 - [Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/). This remarkable tiny PCB released in 2021 is still great in 2024 as it strikes an [outstanding performance/power balance](https://hackaday.com/2021/11/01/the-pi-zero-2-w-is-the-most-efficient-pi/). Almost as fast as a regular RPi 3B+ with the power efficiency of a RPi Zero W.
 - [LED Matrix 64x32 3mm pitch](https://www.adafruit.com/product/2279). Bright LEDs that reflect well in windshiled and sufficient resolution to display text and distinguishable images. Yet small enough to tuck behind the dashboard without distracting the driver.
-- [RGB Matrix Bonnet for RPi](https://www.adafruit.com/product/3211) which simplifies control of the RGB Matrix via Rpi.
+- [RGB LED Matrix Bonnet for RPi](https://www.adafruit.com/product/3211) which simplifies control of the RGB Matrix via Rpi.
 - [Unininterruptable Power Supply to power the PCB and LED matrix](https://www.makerfocus.com/products/raspberry-pi-expansion-board-ups-pack-standard-power-supply?srsltid=AfmBOop_X6rdueEz7cvVL0TxZKkDICGbjlEOxtUUtbOpe7TOrR_PExrE)
 - [Solar panel to continuously charge the UPS battery](https://www.adafruit.com/product/5367)
+- [USB to 2.1mm Male Barrel Jack Cable - 22AWG & 1 meter](https://www.adafruit.com/product/2697). Supplying power from UPS to RGB LED Matrix Bonnet.
 
 # Software
 
 - [DietPi](https://dietpi.com/blog/?p=1058)
 - [RPi RGB LED Matrix](https://github.com/hzeller/rpi-rgb-led-matrix)
 - [Tesla Fleet API - Vehicle Data](https://developer.tesla.com/docs/fleet-api/endpoints/vehicle-endpoints#vehicle-data)
-- 
