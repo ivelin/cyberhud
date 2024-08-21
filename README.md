@@ -31,10 +31,13 @@ Other nice to have features:
 - [Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/). This remarkable tiny PCB released in 2021 is still great in 2024 as it strikes an [outstanding performance/power balance](https://hackaday.com/2021/11/01/the-pi-zero-2-w-is-the-most-efficient-pi/). Almost as fast as a regular RPi 3B+ with the power efficiency of a RPi Zero W.
 - [LED Matrix 64x32 3mm pitch](https://www.adafruit.com/product/2279). Bright LEDs that reflect well in windshiled and sufficient resolution to display text and distinguishable images. Yet small enough to tuck behind the dashboard without distracting the driver.
 - [RGB LED Matrix Bonnet for RPi](https://www.adafruit.com/product/3211) which simplifies control of the RGB Matrix via Rpi.
-- [Unininterruptable Power Supply to power the PCB and LED matrix](https://www.makerfocus.com/products/raspberry-pi-expansion-board-ups-pack-standard-power-supply?srsltid=AfmBOop_X6rdueEz7cvVL0TxZKkDICGbjlEOxtUUtbOpe7TOrR_PExrE)
-- [Solar panel to continuously charge the UPS battery](https://www.adafruit.com/product/5367)
-- [USB A to 2.1mm Male Barrel Jack Cable - 22AWG & 1 meter](https://www.adafruit.com/product/2697). Supplying power from UPS to RGB LED Matrix Bonnet.
-- [USB A to Micro USB B cable](https://www.adafruit.com/product/592). Supplying power from UPS to RPi.
+- Solar Battery:
+  - Option 1: [Integrated off-the shelf product](https://www.amazon.com/gp/product/B07H8CM4F1)
+  - Option 2: Open Source DYI version
+    - [Unininterruptable Power Supply to power the PCB and LED matrix](https://www.makerfocus.com/products/raspberry-pi-expansion-board-ups-pack-standard-power-supply?srsltid=AfmBOop_X6rdueEz7cvVL0TxZKkDICGbjlEOxtUUtbOpe7TOrR_PExrE)
+    - [Solar panel to continuously charge the UPS battery](https://www.adafruit.com/product/5367)
+    - [USB A to 2.1mm Male Barrel Jack Cable - 22AWG & 1 meter](https://www.adafruit.com/product/2697). Supplying power from UPS to RGB LED Matrix Bonnet.
+    - [USB A to Micro USB B cable](https://www.adafruit.com/product/592). Supplying power from UPS to RPi.
 
 # Software
 
