@@ -6,7 +6,7 @@ Based on a cybertruck [community discussion](https://www.cybertruckownersclub.co
 # Wish list
 
 Some of the initial list of desirable features shared by cybertruck drivers:
-- Improve convenience and danger of running out of battery by showing low battery warning (Below 20%, 10%, 5%). Currently batttery level is shown on main screen on a small icon at the top. It is possible to miss if driver is exclusively focused on the road especially in peak traffic environment.
+- Improve convenience and safety by showing low battery warning (Below 20%, 10%, 5%). Currently batttery level is shown on main screen on a small icon at the top. It is possible to miss if driver is exclusively focused on the road especially in peak traffic environment.
 - Improve safety by showing max speed exceeded warning (maybe with a 10% tolerance). Currently speed and max speed are shown in a relatively small area in the top left of the main screen. In a busy traffic situation, it is possible for the driver to not notice that they are exceeding max legal speed limit. Especially after passing or while following speeding cars in front.
 - Improve safety by showing Tires PSI warning. 
 - Improve safety by showing a warning for Door, trunk, window, charging port open while moving.
